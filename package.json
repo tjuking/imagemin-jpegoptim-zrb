@@ -44,5 +44,6 @@
   "main": "index.js",
   "directories": {
     "test": "test"
-  }
+  },
+  "author": "tjuking"
 }
