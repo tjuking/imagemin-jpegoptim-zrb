@@ -1,9 +1,9 @@
 {
-  "name": "imagemin-jpegoptim",
+  "name": "imagemin-jpegoptim-zrb",
   "version": "4.1.0",
-  "description": "jpegoptim imagemin plugin",
+  "description": "jpegoptim imagemin plugin for zrb",
   "license": "MIT",
-  "repository": "imagemin/imagemin-jpegoptim",
+  "repository": "tjuking/imagemin-jpegoptim-zrb",
   "author": {
     "name": "Kevin Mårtensson",
     "email": "kevinmartensson@gmail.com",
