@@ -2,7 +2,7 @@
 
 var spawn = require('child_process').spawn;
 var isJpg = require('is-jpg');
-var jpegoptim = require('jpegoptim-bin');
+var jpegoptim = require('jpegoptim-bin').path;
 var through = require('through2');
 
 module.exports = function (opts) {
