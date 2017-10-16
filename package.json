@@ -3,12 +3,11 @@
   "version": "4.1.0",
   "description": "jpegoptim imagemin plugin for zrb",
   "license": "MIT",
-  "repository": "tjuking/imagemin-jpegoptim-zrb",
-  "author": {
-    "name": "Kevin Mårtensson",
-    "email": "kevinmartensson@gmail.com",
-    "url": "https://github.com/kevva"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjuking/imagemin-jpegoptim-zrb.git"
   },
+  "author": "Kevin Mårtensson <kevinmartensson@gmail.com> (https://github.com/kevva)",
   "engines": {
     "node": ">=0.10.0"
   },
@@ -38,5 +37,13 @@
     "buffer-equal": "^0.0.1",
     "vinyl-file": "^1.1.0",
     "xo": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/tjuking/imagemin-jpegoptim-zrb/issues"
+  },
+  "homepage": "https://github.com/tjuking/imagemin-jpegoptim-zrb#readme",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
   }
 }
