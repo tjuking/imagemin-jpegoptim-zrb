@@ -7,7 +7,6 @@
     "type": "git",
     "url": "git+https://github.com/tjuking/imagemin-jpegoptim-zrb.git"
   },
-  "author": "Kevin Mårtensson <kevinmartensson@gmail.com> (https://github.com/kevva)",
   "engines": {
     "node": ">=0.10.0"
   },
