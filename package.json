@@ -1,0 +1,42 @@
+{
+  "name": "imagemin-jpegoptim",
+  "version": "4.1.0",
+  "description": "jpegoptim imagemin plugin",
+  "license": "MIT",
+  "repository": "imagemin/imagemin-jpegoptim",
+  "author": {
+    "name": "Kevin Mårtensson",
+    "email": "kevinmartensson@gmail.com",
+    "url": "https://github.com/kevva"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && node test/test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "compress",
+    "gulpplugin",
+    "image",
+    "imageminplugin",
+    "img",
+    "jpg",
+    "minify",
+    "optimize"
+  ],
+  "dependencies": {
+    "is-jpg": "^1.0.0",
+    "jpegoptim-bin": "^2.0.0",
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {
+    "ava": "^0.0.4",
+    "buffer-equal": "^0.0.1",
+    "vinyl-file": "^1.1.0",
+    "xo": "*"
+  }
+}
